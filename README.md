@@ -5,6 +5,6 @@ jartum is about experimenting with audio signals, abstract techno, code and othe
 ## artists
 * dvoinoi - http://dvoinoi.com/
 * lowveld - https://lowveld.bandcamp.com/
-
+* tresorg - https://soundcloud.com/tresorg
 
 
